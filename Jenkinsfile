@@ -4,7 +4,7 @@ pipeline {
     stage('Source') {
       steps {
         echo 'Start of pipeline'
-        echo 'Second Step'
+        echo 'Second Step in branch 3'
       }
     }
 
